@@ -1,12 +1,12 @@
 * {
 	box-sizing:border-box;
-	padding: 0;
-	margin: 0;
+	padding: 10;
+	margin: 10;
 }
 
 body {
 	padding-top: 50px;
-	font-family: monospace;
+	/*font-family: monospace;*/
 }
 
 .main-nav {
@@ -40,5 +40,5 @@ body {
 }
 
 .main-figure {
-	border-radius: 50px;
+	border-radius: 150px;
 }
