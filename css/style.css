@@ -1,5 +1,6 @@
 * {
 	box-sizing:border-box;
+	font-family: sans-serif;
 	padding: 10;
 	margin: 10;
 }
@@ -40,5 +41,5 @@ body {
 }
 
 .main-figure {
-	border-radius: 150px;
+	border-radius: 50%;
 }
